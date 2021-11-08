@@ -79,5 +79,5 @@ setup(
         'Topic :: Software Development :: Libraries :: Python Modules',
     ],
     install_requires=['nltk==3.3'],
-    cmdclass={'develop': PostDevelop, 'install': PostInstall},
+    #cmdclass={'develop': PostDevelop, 'install': PostInstall},
 )
