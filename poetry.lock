@@ -217,7 +217,7 @@ python-versions = ">=3.6"
 
 [[package]]
 name = "nltk"
-version = "3.6.2"
+version = "3.3"
 description = "Natural Language Toolkit"
 category = "main"
 optional = false
@@ -740,8 +740,7 @@ markupsafe = [
     {file = "MarkupSafe-2.0.1.tar.gz", hash = "sha256:594c67807fb16238b30c44bdf74f36c02cdf22d1c8cda91ef8a0ed8dabf5620a"},
 ]
 nltk = [
-    {file = "nltk-3.6.2-py3-none-any.whl", hash = "sha256:240e23ab1ab159ef9940777d30c7c72d7e76d91877099218a7585370c11f6b9e"},
-    {file = "nltk-3.6.2.zip", hash = "sha256:57d556abed621ab9be225cc6d2df1edce17572efb67a3d754630c9f8381503eb"},
+    {file = "nltk-3.3.0.zip", hash = "sha256:fe0eda251be65843be86d7de9abfbf7161732256f742e623b21243ec47bdb718"},
 ]
 packaging = [
     {file = "packaging-21.0-py3-none-any.whl", hash = "sha256:c86254f9220d55e31cc94d69bade760f0847da8000def4dfe1c6b872fd14ff14"},
